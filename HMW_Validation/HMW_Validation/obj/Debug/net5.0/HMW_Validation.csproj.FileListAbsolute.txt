@@ -1,0 +1,16 @@
+/Users/gio/Desktop/HMW_Validation/HMW_Validation/bin/Debug/net5.0/HMW_Validation
+/Users/gio/Desktop/HMW_Validation/HMW_Validation/bin/Debug/net5.0/HMW_Validation.deps.json
+/Users/gio/Desktop/HMW_Validation/HMW_Validation/bin/Debug/net5.0/HMW_Validation.runtimeconfig.json
+/Users/gio/Desktop/HMW_Validation/HMW_Validation/bin/Debug/net5.0/HMW_Validation.runtimeconfig.dev.json
+/Users/gio/Desktop/HMW_Validation/HMW_Validation/bin/Debug/net5.0/HMW_Validation.dll
+/Users/gio/Desktop/HMW_Validation/HMW_Validation/bin/Debug/net5.0/HMW_Validation.pdb
+/Users/gio/Desktop/HMW_Validation/HMW_Validation/obj/Debug/net5.0/HMW_Validation.csproj.AssemblyReference.cache
+/Users/gio/Desktop/HMW_Validation/HMW_Validation/obj/Debug/net5.0/HMW_Validation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gio/Desktop/HMW_Validation/HMW_Validation/obj/Debug/net5.0/HMW_Validation.AssemblyInfoInputs.cache
+/Users/gio/Desktop/HMW_Validation/HMW_Validation/obj/Debug/net5.0/HMW_Validation.AssemblyInfo.cs
+/Users/gio/Desktop/HMW_Validation/HMW_Validation/obj/Debug/net5.0/HMW_Validation.csproj.CoreCompileInputs.cache
+/Users/gio/Desktop/HMW_Validation/HMW_Validation/obj/Debug/net5.0/HMW_Validation.dll
+/Users/gio/Desktop/HMW_Validation/HMW_Validation/obj/Debug/net5.0/refint/HMW_Validation.dll
+/Users/gio/Desktop/HMW_Validation/HMW_Validation/obj/Debug/net5.0/HMW_Validation.pdb
+/Users/gio/Desktop/HMW_Validation/HMW_Validation/obj/Debug/net5.0/HMW_Validation.genruntimeconfig.cache
+/Users/gio/Desktop/HMW_Validation/HMW_Validation/obj/Debug/net5.0/ref/HMW_Validation.dll
